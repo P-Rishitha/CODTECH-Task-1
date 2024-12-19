@@ -14,6 +14,7 @@ Mentor: NEELA SANTHOSH KUMAR
 
 **Project: BMI Calculator**  
 
+![image](https://github.com/user-attachments/assets/57dd8d14-6013-4f09-adf1-9b049d193ad3)
 
 
 ### **Introduction**  
