@@ -14,6 +14,8 @@ Mentor: NEELA SANTHOSH KUMAR
 
 **Project: BMI Calculator**  
 
+
+
 ### **Introduction**  
 The **BMI Calculator** is a simple and user-friendly **Graphical User Interface (GUI)** application built using **Python** and the **Tkinter** library. The project calculates the **Body Mass Index (BMI)** based on the user's height and weight, and it categorizes the result into four distinct groups: Underweight, Normal weight, Overweight, and Obese.  
 
